@@ -1,4 +1,4 @@
-print("looks nice")
+print("looks new")
 
 print("looks nice")
 print("looks good")
