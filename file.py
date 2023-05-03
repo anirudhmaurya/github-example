@@ -1,6 +1,6 @@
 print("looks new")
 
-print("looks again")
+print("looks ")
 print("looks good")
 print("looks great")
 print("looks better")
